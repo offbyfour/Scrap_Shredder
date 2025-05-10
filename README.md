@@ -4,6 +4,9 @@ This is the project page for an open source Scrap Shredder. The goal of this pag
 ![image](https://github.com/user-attachments/assets/2a41bedd-9510-40d3-8586-fb8a7664874d)
 
 
+
+
+
 ## Configuratiions
 There are 2 possible power configurations using the available mounts, 2HP and 4HP. 
 
@@ -15,6 +18,10 @@ This config uses four 1HP motors and is intended to be used on standard 240V@30A
 
 ### Other 240V or 3-Phase configs
 Stronger more expensive motors are available that could take advantage of higher outlet power but they were not explored due to cost. If you do decide to build one, Id love to hear about how it went!
+
+
+
+
 
 
 
