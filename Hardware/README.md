@@ -3,7 +3,7 @@
 
 ### Blades
 
-The blades are made out of steel and have an odd number of blades in order to limit the number of teeth cutting material at the same time.
+The blades are made out of steel and have an odd number of teeth in order to limit the number of teeth cutting material at the same time.
 
 ![image](https://github.com/user-attachments/assets/571adc72-d4e2-46cc-88ac-524c6369e691)
 
@@ -24,14 +24,14 @@ After shearing, debris can sometimes get stuck around the blades/spacers. The wi
 
 ### Axles
 
-The axles are how the motors transfer torque to the blades, Therefore they are made of steel two inch hexbar This design consists of two axles, both spinning towards the center of the device. Each axle is driven directly by a motor so no axle to axle gearing is necessary.
+The axles are how the motors transfer torque to the blades, Therefore they are made of two inch steel hexbar This design consists of two axles, both spinning towards the center of the device. Each axle is driven directly by a motor so no axle to axle gearing is necessary.
 
 ![image](https://github.com/user-attachments/assets/344eca37-ae64-454f-a58c-3ac28d079902)
 
 
 ### Motors
 
-The motors used for this design are repourposed 1HP winch motors. They can be found readily online and include a planetary gearbox to step down the RPM and up the torque to acceptable ranges for a shredder.
+The motors used for this design are repourposed 12V/1HP winch motors. They can be found readily online and include a planetary gearbox to step down the RPM and up the torque to acceptable ranges for a shredder.
 
 ![image](https://github.com/user-attachments/assets/dd2bf61d-0df7-4c20-8a7c-ecceb9458655)
 
@@ -45,7 +45,7 @@ Motor couplers are used to join the motors to the axle. They ride on bearings mo
 
 ### Housing
 
-Other than the front and rear faceplates, the housing is under very little stress. Although made entirely out of aluminum, the front and back faceplates are made out of one inch thick aluminum.
+Other than the front and rear faceplates, the housing is under very little stress. Made entirely out of aluminum, the front and back faceplates are made one inch thick to handle the required force.
 
 ![image](https://github.com/user-attachments/assets/030ff221-7a38-4a21-9673-e2d34a82f947)
 
