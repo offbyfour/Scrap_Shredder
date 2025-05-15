@@ -1,0 +1,11 @@
+Number,Label,,Qty,Description
+1,Body,Wall_Side,2,
+2,,Wall_Face,2,
+3,Axle,2in_x_18in_Hex_Bar,2,
+4,,Bearing_LM104911,4,
+5,,Gear_Coupler_Long,2,
+6,,Gear_Coupler_Short,2,
+7,Teeth,Wiper,30,
+8,,Spacer,30,
+9,,Blade,28,
+10,Motor,1 HP Motor,2,
