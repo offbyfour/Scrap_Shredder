@@ -10,7 +10,7 @@ The blades are made out of steel and have an odd number of teeth in order to lim
 
 ### Spacers
 
-Spacers can be made of of aluminum as they are not meant to do any work. Their main job is to space out the blades.
+Spacers can be made of aluminum as they are not meant to do any work. Their main job is to space out the blades.
 
 ![image](https://github.com/user-attachments/assets/f83cb0f9-dd98-4b74-b3ca-b0831cacb9d6)
 
